@@ -25,12 +25,6 @@ public class ggnt1 {
                 sred = num / a;
             }
             System.out.print("сумма всех элементов равна: " + num + "\n" + "среднее арифместическое равно" + "\n" + sred);
-
         }
-
-
-
     }
-
-
 }
